@@ -24,3 +24,6 @@ def check_total(current_scores):
         current_scores['user'] = 0
         current_scores['system'] = 0
         print('-' * 20, '\t{}-{}\t'.format(current_scores['total_user'], current_scores['total_system']), '-' * 20)
+
+
+def 1
