@@ -8,7 +8,7 @@ PLAY_RULE = {
 }
 
 STATUS = {
-    -1: 'you lose',
+    -1: 'you are winner',
     0: 'draw',
     1: 'you win'
 }
