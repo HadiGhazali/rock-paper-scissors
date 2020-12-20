@@ -12,3 +12,5 @@ STATUS = {
     0: 'draw',
     1: 'you win'
 }
+
+a= 998
